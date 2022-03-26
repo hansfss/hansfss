@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansfss
-- 👀 I’m interested in... football, MMA and programming
-- 🌱 I’m currently learning... python
+- 👀 I’m interested in... performing magic tricks for underprivileged children
+- 🌱 I’m currently learning... a bunch of different crap
 - 💞️ I’m looking to collaborate on... ummm...
 - 📫 How to reach me ... folkesson.hans@gmail.com
 
