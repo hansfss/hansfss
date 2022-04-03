@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hansfss
-- 👀 I’m interested in... 
-- 🌱 I’m currently learning... a bunch of different crap
-- 💞️ I’m looking to collaborate on... ummm...
+- 👀 I’m interested in... uhhh
+- 🌱 I’m currently learning... ummm
+- 💞️ I’m looking to collaborate on... hmmm
 - 📫 How to reach me ... folkesson.hans@gmail.com
 
 <!---
